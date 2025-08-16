@@ -2,6 +2,9 @@
 
 This README explains three approaches you’ll see in this repo — **Generative (LLM‑only), Vector Search, and RAG (Retrieval‑Augmented Generation)** — and maps each to the included Streamlit apps/scripts. It’s tailored for the **Fashion Product Images (Small)** dataset (~44k items).
 
+[![Demo Video](https://drive.google.com/thumbnail?id=1QYWSd6N0mjRKySpYhcnP96jO9t1Ai5rh&sz=w640-h360)](https://drive.google.com/file/d/1QYWSd6N0mjRKySpYhcnP96jO9t1Ai5rh/view?usp=sharing)
+
+
 ---
 
 ## 1) Plain Generative (LLM‑only)
